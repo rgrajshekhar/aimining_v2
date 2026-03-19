@@ -1,6 +1,6 @@
 import { authService } from './authService';
 
-const API_URL = 'https://bbgm50gbv5.execute-api.ap-south-1.amazonaws.com/Prod';
+const API_URL = 'https://bbgm50gbv5.execute-api.ap-south-1.amazonaws.com/api';
 
 export interface Ebook {
   id: string;
